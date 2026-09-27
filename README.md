@@ -1,11 +1,19 @@
-# Rust Strength — public site
+# Rust Strength: public site
 
-The Privacy Policy, Terms of Service, support page and account-deletion
-instructions for the Rust Strength iOS/Android app.
+The support page, Privacy Policy, Terms of Service, and account-deletion
+instructions for **Rust Strength**, an iPhone workout tracker that suggests the
+weight for your next set.
 
-**Do not edit these files by hand.** They are generated from the app's source
-so the published documents and the in-app documents cannot drift apart. To
-change them, edit `src/legal/` in the app repo and run `npm run legal`, which
-rewrites this folder.
+**Live site:** <https://lindellrhett-gif.github.io/rust-strength/>
+
+**About the app:** see the [project page](https://lindellrhett-gif.github.io/rust-strength.html)
+on my portfolio for screenshots, features, and how it works.
+
+---
+
+**Do not edit these files by hand.** They are generated from the app's source,
+so the published documents and the in-app documents never say different
+things. To change them, edit `src/legal/` in the app repo and run
+`npm run legal`, which rewrites this folder.
 
 Served by GitHub Pages from the repository root.
