@@ -9,6 +9,12 @@ weight for your next set.
 **About the app:** see the [project page](https://lindellrhett-gif.github.io/rust-strength.html)
 on my portfolio for screenshots, features, and how it works.
 
+**For employers:** the app's source code, with a short code tour, is in
+[rust-strength-app](https://github.com/lindellrhett-gif/rust-strength-app#for-employers-and-reviewers).
+I built it solo: [portfolio](https://lindellrhett-gif.github.io/) ·
+[résumé](https://lindellrhett-gif.github.io/resume.html) ·
+[LinkedIn](https://www.linkedin.com/in/rhett-lindell).
+
 ---
 
 **Do not edit these files by hand.** They are generated from the app's source,
