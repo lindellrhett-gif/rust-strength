@@ -4,6 +4,8 @@ The support page, Privacy Policy, Terms of Service, and account-deletion
 instructions for **Rust Strength**, an iPhone workout tracker that suggests the
 weight for your next set.
 
+**Download:** [Rust Strength on the App Store](https://apps.apple.com/us/app/rust-strength/id6811736131)
+
 **Live site:** <https://lindellrhett-gif.github.io/rust-strength/>
 
 **About the app:** see the [project page](https://lindellrhett-gif.github.io/rust-strength.html)
