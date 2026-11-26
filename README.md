@@ -6,7 +6,7 @@ weight for your next set.
 
 **Download:** [Rust Strength on the App Store](https://apps.apple.com/us/app/rust-strength/id6811736131)
 
-**Live site:** <https://lindellrhett-gif.github.io/rust-strength/>
+**Live site:** <https://bluestemsoftware.com/rust-strength/> (moved November 2026)
 
 **About the app:** see the [project page](https://lindellrhett-gif.github.io/rust-strength.html)
 on my portfolio for screenshots, features, and how it works.
@@ -19,9 +19,12 @@ I built it solo: [portfolio](https://lindellrhett-gif.github.io/) ·
 
 ---
 
-**Do not edit these files by hand.** They are generated from the app's source,
-so the published documents and the in-app documents never say different
-things. To change them, edit `src/legal/` in the app repo and run
-`npm run legal`, which rewrites this folder.
+**These pages only redirect now.** The support and legal pages moved to
+<https://bluestemsoftware.com/rust-strength/>, the Bluestem Software website
+([bluestem-software](https://github.com/lindellrhett-gif/bluestem-software)).
+Each page here sends visitors to its new address, keeping anything after `?`
+or `#` (the email confirmation page needs that), because app versions already
+installed and confirmation emails already sent still link here. Keep these
+redirects in place; `npm run legal` in the app repo now writes to the new site.
 
 Served by GitHub Pages from the repository root.
